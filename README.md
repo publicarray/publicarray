@@ -1,11 +1,12 @@
 ### Hi there 👋 Welcome to my OpenSource Projects!
 
 [![Publicarray's GitHub stats](https://github-readme-stats.vercel.app/api?username=publicarray&count_private=true&show_icons=true&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=444)](https://github.com/publicarray/publicarray)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=publicarray&layout=compact&hide=html&langs_count=9&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/publicarray/publicarray)
+[![Top Languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=publicarray&layout=compact&hide=html&langs_count=9&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/publicarray/publicarray)
+
+- 👨‍💻 I’m currently working on Synology NAS's DSM 7.0 support for 3rd party packages on https://synocommunity.com
+- 📫 How to reach me: https://sebastian-schmidt.me/pages/contact/
 
 <!--
-**publicarray/publicarray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
