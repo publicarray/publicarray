@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my OpenSource Projects!
 
 ![Publicarray's GitHub stats](https://github-readme-stats.vercel.app/api?username=publicarray&count_private=true&show_icons=true&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=444)
-![Top Languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=publicarray&layout=compact&hide=html&langs_count=9&custom_title=Most%20Used%20Languages%20on%20GitHub&card_width=350&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=publicarray&layout=compact&hide=html&langs_count=9&custom_title=Most%20Used%20Languages%20on%20github&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - 👨‍💻 I’m currently working on Synology NAS's DSM 7.0 support for 3rd party packages on https://synocommunity.com
 - 📫 How to reach me: https://sebastian-schmidt.me/pages/contact/
