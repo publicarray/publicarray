@@ -1,11 +1,14 @@
 ### Hi there 👋 Welcome to my OpenSource Projects!
 
-![Publicarray's GitHub stats](https://github-readme-stats.vercel.app/api?username=publicarray&count_private=true&show_icons=true&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=444)
-![Top Languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=publicarray&layout=compact&hide=html&langs_count=9&custom_title=Most%20used%20languages%20on%20Github&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Publicarray's GitHub stats](https://github-readme-stats.vercel.app/api?username=publicarray&count_private=true&show_icons=true&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=444&hide_border=true)
+![Top Languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=publicarray&layout=compact&hide=html&langs_count=9&custom_title=Most%20used%20languages%20on%20Github&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true)
 
 - 👨‍💻 I’m currently working on Synology NAS's DSM 7.0 support for 3rd party packages on https://synocommunity.com
+- 👯 I’m looking to collaborate on [synocommunity/spksrc](https://github.com/SynoCommunity/spksrc/)
+- 🤔 I’m looking for help covering the cost for the [Aussy DNS servers](https://dns.seby.io/) - [GH Sponsor](https://github.com/sponsors/publicarray) - [Ko-Fi](https://ko-fi.com/publicarray)
 - 📫 How to reach me: https://sebastian-schmidt.me/pages/contact/
-
+- ⚡ My small corner on the web: https://seby.io
+ 
 <!--
 Here are some ideas to get you started:
 
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me 
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
