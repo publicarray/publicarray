@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working on updating [3rd party Synology packages](https://synocommunity.com) to get them ready for Synology's upcomming DSM 7.0 release.
 - 👯 I’m looking to collaborate on [synocommunity/spksrc](https://github.com/SynoCommunity/spksrc/)
-- 🤔 I’m looking for help covering the cost for the [Aussy DNS servers](https://dns.seby.io/) - [GH Sponsor](https://github.com/sponsors/publicarray) - [Ko-Fi](https://ko-fi.com/publicarray)
+- 💰 I’m looking for help covering the cost for the [Aussy DNS servers](https://dns.seby.io/) - [GH Sponsor](https://github.com/sponsors/publicarray) - [Ko-Fi](https://ko-fi.com/publicarray)
 - 📫 How to reach me: https://sebastian-schmidt.me/pages/contact/
 - ⚡ My small corner on the web: https://seby.io
  
