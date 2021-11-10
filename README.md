@@ -10,7 +10,7 @@
 
 ⚡ Stats ⚡ | 💬 Programming Languages 💬
 ----------|----------
-![Publicarray's GitHub stats](https://github-readme-stats.vercel.app/api?username=publicarray&count_private=true&show_icons=true&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=444&hide_border=true) | ![publicarray's Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=publicarray&layout=compact&hide=html&langs_count=9&custom_title=Most%20used%20languages%20on%20Github&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true)
+![Publicarray's GitHub stats](https://github-readme-stats.vercel.app/api?username=publicarray&count_private=true&show_icons=true&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=444&hide_border=true) | ![publicarray's Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=publicarray&layout=compact&hide=html&langs_count=9&cache_seconds=86400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true)
 
 <!--
 Here are some ideas to get you started:
