@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my OpenSource Projects!
 
-<a rel="me" href="https://infosec.exchange/@publicarray"></a>
+<a rel="me" rel="nofollow" href="https://infosec.exchange/@publicarray"></a>
 
 - 👨‍💻 I’m currently tinkering on [SynoCommunity](https://synocommunity.com)
 - 🤝 I’m looking to collaborate on anything interesting
