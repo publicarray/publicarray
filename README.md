@@ -1,5 +1,7 @@
 ### Hi there 👋 Welcome to my OpenSource Projects!
 
+<a rel="me" href="https://infosec.exchange/@publicarray"></a>
+
 - 👨‍💻 I’m currently tinkering on [SynoCommunity](https://synocommunity.com)
 - 🤝 I’m looking to collaborate on anything interesting
 - 💰 I’m looking for help covering the cost for the [Aussy DNS servers](https://dns.seby.io/)
